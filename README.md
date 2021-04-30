@@ -12,12 +12,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="PandaCatPlayz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="PandaCatPlayz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" class="filter-red"/>][youtube]
+[<img align="left" alt="PandaCatPlayz | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="PandaCatPlayz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
 ### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 
 ## Wip
 
@@ -29,7 +35,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [kjortmobile Simplex Base](https://www.youtube.com/watch?v=TjtvgjNQ7mk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCE1JWJcrbBWv-p3GLlvKvMw)
@@ -43,6 +48,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[twitch]: https://www.twitch.tv/pandacatplayz
 [email]: https://mailhide.io/e/9Y5zWYL7
 [youtube]: https://www.youtube.com/channel/UCE1JWJcrbBWv-p3GLlvKvMw
+
