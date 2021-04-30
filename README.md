@@ -10,6 +10,8 @@
 
 [![Spotify](https://spotify-player-theta.vercel.app/api/spotify)](https://open.spotify.com/user/pandacatplayz)
 
+[My main playlist (Mostly rock and random stuff)](https://open.spotify.com/playlist/6j58B3aXswXKFbozuLOsCF?si=21d5477a68f045d8)
+
 ### Connect with me:
 
 [<img align="left" alt="PandaCatPlayz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" class="filter-red"/>][youtube]
@@ -34,7 +36,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [kjortmobile Simplex Base](https://www.youtube.com/watch?v=TjtvgjNQ7mk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCE1JWJcrbBWv-p3GLlvKvMw)
