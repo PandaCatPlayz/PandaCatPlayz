@@ -1,7 +1,8 @@
-### こんにちは (Konnichiwa) I'm PandaCatPlayz! 👋
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=PandaCatPlayz;MC+Mod+Dev;Unity+Dev;Open+source+enthusiast" />
 
-## I'm a Mod Developer for Minecraft!
-
+- 🎓 I'm currently learning Japanese
 - 🌱 I’m currently reteaching myself Java, learning C++, and relearning Python
 - 🥅 2021 Goals: Contribute more to Open Source projects and polish up some smaller projects
 - ⚡ Fun fact: MacOS and iOS is dumb, Windows or Linux and Android ftw
