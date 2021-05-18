@@ -5,7 +5,7 @@
 - 🎓 I'm currently learning Japanese
 - 🌱 I’m currently reteaching myself Java, learning C++, and relearning Python
 - 🥅 2021 Goals: Contribute more to Open Source projects and polish up some smaller projects
-- ⚡ Fun fact: MacOS and iOS is dumb, Windows or Linux and Android ftw
+- ⚡ Fun fact: MacOS and iOS are dumb, Windows or Linux and Android ftw
 
 ### Spotify Playing 🎧
 
