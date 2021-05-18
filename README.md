@@ -52,7 +52,7 @@
 </details>
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/PandaCatPlayz/count.svg)
 
 [twitch]: https://www.twitch.tv/pandacatplayz
 [email]: https://mailhide.io/e/9Y5zWYL7
