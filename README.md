@@ -37,7 +37,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [kjortmobile Simplex Base](https://www.youtube.com/watch?v=TjtvgjNQ7mk)
+- [Bow Duels Road To Master](https://www.youtube.com/watch?v=-gsdjLxYdho)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCE1JWJcrbBWv-p3GLlvKvMw)
