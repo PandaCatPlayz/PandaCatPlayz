@@ -37,6 +37,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bridge Sumo Clips](https://www.youtube.com/watch?v=bdzRhr0dtdE)
 - [Armor Stand Swapper with Break and Replace system](https://www.youtube.com/watch?v=UL-SotKg8Uk)
 - [Bow Duels Road To Master](https://www.youtube.com/watch?v=-gsdjLxYdho)
 <!-- YOUTUBE:END -->
