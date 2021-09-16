@@ -37,6 +37,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [random 360 lmao](https://www.youtube.com/watch?v=3q5SDkMjYu4)
 - [Random clip i thought was clean](https://www.youtube.com/watch?v=YaZuKqRYEnk)
 - [Bridge Sumo Clips](https://www.youtube.com/watch?v=bdzRhr0dtdE)
 - [Armor Stand Swapper with Break and Replace system](https://www.youtube.com/watch?v=UL-SotKg8Uk)
