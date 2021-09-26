@@ -37,11 +37,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [hoW](https://www.youtube.com/watch?v=MLoF3httIAg)
 - [Clean combo #shorts](https://www.youtube.com/watch?v=GpmQhffadVg)
 - [Hypixel the best](https://www.youtube.com/watch?v=41YP-RVZUgE)
 - [hehe](https://www.youtube.com/watch?v=iZT4fbRJh7g)
 - [Making a hacker rage quit](https://www.youtube.com/watch?v=GQF125B7_uA)
-- [random 360 lmao](https://www.youtube.com/watch?v=3q5SDkMjYu4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCE1JWJcrbBWv-p3GLlvKvMw)
