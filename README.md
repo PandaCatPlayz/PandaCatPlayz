@@ -37,11 +37,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nastiest KB On Planet Earth](https://www.youtube.com/watch?v=GyLqNR8zjwg)
 - [Trophy Trucks Go NYOOOM](https://www.youtube.com/watch?v=3sYXFtAxTE4)
 - [Indie Car Rollin Away](https://www.youtube.com/watch?v=c-NoFPiE8_g)
 - [Global Time Attack Dodge Viper](https://www.youtube.com/watch?v=B-sp_qRUerw)
 - [hoW](https://www.youtube.com/watch?v=MLoF3httIAg)
-- [Clean combo #shorts](https://www.youtube.com/watch?v=GpmQhffadVg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCE1JWJcrbBWv-p3GLlvKvMw)
